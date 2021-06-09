@@ -19,4 +19,6 @@ echo $x
 readonly x
 x=300
 echo $x
+b=(10 20)
+echo ${b[0]}
 
