@@ -11,3 +11,6 @@ echo COURSE NAME=$COURSE
 DATE=$(date +%F)
 echo Good Morning,Today Date is $DATE
 ADD=$((2+2*3))
+echo $ADD
+BIG=$(2+((15/3)-1))
+echo $BIG
