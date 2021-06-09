@@ -12,5 +12,11 @@ DATE=$(date +%F)
 echo Good Morning,Today Date is $DATE
 ADD=$((2+2*3))
 echo $ADD
-BIG=$(2+((15/3)-1))
+BIG=$((2+3*4-1))
 echo $BIG
+x=100
+echo $x
+readonly x
+x=300
+echo $x
+
