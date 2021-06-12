@@ -9,6 +9,6 @@ SAMPLE()
    b=10
  }
  ## ACCESS A FUNCTION
- a=10
+ a=20
  SAMPLE
  echo value of b is $b
