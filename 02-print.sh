@@ -11,3 +11,4 @@ echo -e "A scripting language is used to write scripts.
  that are compiled first before running.Nowadays, scripts are generally associated with web development
  where they are widely used to make dynamic web applications. Scripting languages can be divided into
  two categories:"
+echo -e "\t Perl,Python and shell"
