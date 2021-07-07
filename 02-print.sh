@@ -12,3 +12,5 @@ echo -e "A scripting language is used to write scripts.
  where they are widely used to make dynamic web applications. Scripting languages can be divided into
  two categories:"
 echo -e "\t Perl,Python and shell"
+## To print text in colors
+echo -e "\e[31m VEDANSH"
