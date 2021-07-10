@@ -24,4 +24,7 @@ x=300
 echo $x
 b=(10 20)
 echo ${b[0]}
+##
+echo Variable from command line X=$x
+
 
