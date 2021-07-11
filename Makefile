@@ -2,4 +2,4 @@ coffee:
 	@echo Making Coffee
 
 tea:
-	@echo MakingTea
+	@echo Making Tea
